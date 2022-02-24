@@ -1,0 +1,12 @@
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\bin\Debug\net6.0\ModernisationChallenge.DataAccess.deps.json
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\bin\Debug\net6.0\ModernisationChallenge.DataAccess.dll
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\bin\Debug\net6.0\ModernisationChallenge.DataAccess.pdb
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.csproj.AssemblyReference.cache
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.AssemblyInfoInputs.cache
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.AssemblyInfo.cs
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.dll
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\refint\ModernisationChallenge.DataAccess.dll
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ModernisationChallenge.DataAccess.pdb
+D:\Project\ModernisationChallengeNet6\ModernisationChallenge\ModernisationChallenge.DataAccess\obj\Debug\net6.0\ref\ModernisationChallenge.DataAccess.dll
