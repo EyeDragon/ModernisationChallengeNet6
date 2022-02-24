@@ -1,0 +1,14 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/.vs/*
+**/bin/*
+**/obj/*
+**/*.user
+**/*.dbmdl
+**/*.jfm
+**/.config/dotnet-tools.json
+**/*.pubxml
+launch.json
+tasks.json
